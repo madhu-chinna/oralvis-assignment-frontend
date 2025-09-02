@@ -32,6 +32,6 @@
     "eslint-plugin-react-refresh": "^0.4.4"
   },
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   }
 }
